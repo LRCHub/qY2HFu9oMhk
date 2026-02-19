@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "No Celebration",
+  "base_artist": "Paradise Lost",
+  "createdAt": "2026-02-19T10:05:40.715005Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Half Light II (No Celebration)",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/01_Half_Light_II_(No_Celebration)_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Celebration",
+      "artist": "Paradise Lost",
+      "has_synced": false,
+      "path": "select/02_No_Celebration_Paradise_Lost.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Celebration",
+      "artist": "Gov't Mule",
+      "has_synced": true,
+      "path": "select/03_No_Celebration_Gov't_Mule.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Half Light II (No Celebration)",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/04_Half_Light_II_(No_Celebration)_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Half Light (No Celebration",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/05_Half_Light_(No_Celebration_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Half Light (No Celebration)",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/06_Half_Light_(No_Celebration)_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Half Light II (No Celebration)",
+      "artist": "The Arcade Fire",
+      "has_synced": true,
+      "path": "select/07_Half_Light_II_(No_Celebration)_The_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "08 - No Celebration",
+      "artist": "Paradise Lost",
+      "has_synced": false,
+      "path": "select/08_08_-_No_Celebration_Paradise_Lost.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Half Light II (No Celebration)",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/09_Half_Light_II_(No_Celebration)_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Half Light II (No Celebration)",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/10_Half_Light_II_(No_Celebration)_Arcade_Fire.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No Celebration",
+      "artist": "Paradise Lost",
+      "has_synced": false,
+      "path": "select/pl_01_No_Celebration_Paradise_Lost.txt"
+    }
+  ]
+}
